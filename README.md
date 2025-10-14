@@ -11,7 +11,7 @@ python3 -m text_analyzer.main --file sample.txt
 ```bash
 git init
 git add .
-git commit -m "اولین کامیت: Text Analyzer CLI آماده اجرا"
+git commit -m "اولین کامیت: Text_Analyzer_CLI آماده اجرا"
 git branch -M main
 git remote add origin https://github.com/NastaranMehboudi/text_analyzer_cli.git
 git push -u origin main
