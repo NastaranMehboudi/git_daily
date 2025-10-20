@@ -1,0 +1,1 @@
+print("Exercise day2")
