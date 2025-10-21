@@ -1,0 +1,1 @@
+print("my Exercise of third day with  git")
