@@ -1,1 +1,1 @@
-print("day 5")
+print("Day 5 🚀")
